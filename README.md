@@ -43,6 +43,6 @@ There is a good [guide by Digital Ocean](https://www.digitalocean.com/community/
 
 ## Credits
 
-* Using Excelize library [360EntSecGroup-Skylar/excelize](https://github.com/360EntSecGroup-Skylar/excelize)
-* Inspiration from [tealeg/xlsx](https://github.com/tealeg/xlsx)
+* Used Excelize library [360EntSecGroup-Skylar/excelize](https://github.com/360EntSecGroup-Skylar/excelize)
+* Inspired by [tealeg/xlsx](https://github.com/tealeg/xlsx)
 
